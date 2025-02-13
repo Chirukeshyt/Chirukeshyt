@@ -2,8 +2,8 @@
 👋 Hello! I’m Chirukesh Devabhathini, a passionate web developer dedicated to crafting seamless and engaging digital experiences. With a strong foundation in HTML, CSS, JavaScript, Next JS, React JS and Tailwind CSS, I specialize in building dynamic web applications that are both functional and aesthetically pleasing.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chirukeshyt&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chirukeshyt&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Chirukeshyt&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chirukeshyt&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirukeshyt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
